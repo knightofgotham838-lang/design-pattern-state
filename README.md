@@ -98,7 +98,7 @@ if __name__ == "__main__":
     
     pesanan.next_state() # Dikirim -> Selesai
     pesanan.show_status()
-
+```
 | Lines | Code Segment                                    | Explanation                                                                                            |
 | ----- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | 1     | `from abc import ABC, abstractmethod`           | Mengimpor `ABC` dan `abstractmethod` dari modul `abc` untuk membuat abstract class dan method abstrak. |
